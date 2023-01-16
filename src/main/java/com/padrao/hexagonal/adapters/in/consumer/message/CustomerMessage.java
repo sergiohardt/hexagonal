@@ -1,4 +1,4 @@
-package com.padrao.hexagonal.adapters.in.consumer.mensager;
+package com.padrao.hexagonal.adapters.in.consumer.message;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
