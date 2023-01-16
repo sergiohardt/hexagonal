@@ -1,0 +1,10 @@
+package com.padrao.hexagonal.application.ports.in;
+
+import com.padrao.hexagonal.application.core.domain.Customer;
+
+public interface InsertCustomerInputPort {
+
+    void insert(Customer customer, String zipCode);
+
+
+}
